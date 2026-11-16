@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-procps-ng"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS procps-ng component - system_utilities"
+
+[lib]
+name = "procps_ng"
+path = "src/lib.rs"
