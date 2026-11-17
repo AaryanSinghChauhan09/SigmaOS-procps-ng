@@ -3,7 +3,7 @@ name = "SigmaOS-procps-ng"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "procps-ng component"
+description = "Procps-ng"
 upstream = []
 
 [contract]
